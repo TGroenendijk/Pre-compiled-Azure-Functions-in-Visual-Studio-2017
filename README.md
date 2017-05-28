@@ -1,5 +1,10 @@
 # Pre-compiled-Azure-Functions-in-Visual-Studio-2017
 
+## Code
+### Visual Studio 2017 version 15.3 Preview
+![visual studio 2017 version 15 3 preview](https://cloud.githubusercontent.com/assets/4686866/26531801/73f54cfe-43f1-11e7-8bcf-0f8be41d9ed4.png)
+
+## Testing
 ### Create Order
 ![postman - post order](https://cloud.githubusercontent.com/assets/4686866/26531743/14cbd97e-43f0-11e7-9e23-25e4d3635884.png)
 
