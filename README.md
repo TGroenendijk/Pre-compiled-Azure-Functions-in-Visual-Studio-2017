@@ -12,6 +12,11 @@ To get started:
 - Download and install the [Visual Studio 2017 Tools for Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=AndrewBHall-MSFT.AzureFunctionToolsforVisualStudio2017)
 
 ## Code
+Visual Studio 2017 Tools for Azure Functions introduces some exciting changes:
+
+Enables creating pre-compiled C# functions that bring better cold start performance than script based functions
+Uses WebJobs attributes to declare function bindings directly in the C# code rather than the separate function.json file.
+
 #### Model classes
 The Solution contains several model classes that represents the data in the application. In this case, the models used are a TableOrder that contains data from the Azure Table  and a ClientOrder to communicate with the client.
 
@@ -42,4 +47,5 @@ Use a tool like Postman to test the API App.
 
 
 ## More Information
-For more information go to: (https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/)
+For more information go to: 
+https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/
