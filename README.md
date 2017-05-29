@@ -14,9 +14,7 @@ To get started:
 - You need to install [Visual Studio 2017 version 15.3 Preview](https://www.visualstudio.com/vs/preview/)
 - You must have either the “ASP.NET and web development” or “Azure development” workload installed
 - Download and install the [Visual Studio 2017 Tools for Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=AndrewBHall-MSFT.AzureFunctionToolsforVisualStudio2017)
-
-<img src="https://cloud.githubusercontent.com/assets/4686866/26531962/4fbb8bc4-43f5-11e7-8b4a-bfae01bef207.png" height="300px">.
-
+![install - small](https://cloud.githubusercontent.com/assets/4686866/26544780/6820f712-4463-11e7-96a7-e549d282f605.png)
 
 
 ## Code
