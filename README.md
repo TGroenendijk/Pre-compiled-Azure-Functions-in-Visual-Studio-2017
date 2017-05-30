@@ -1,7 +1,9 @@
 # Pre-compiled-Azure-Functions-in-Visual-Studio-2017
 
 ## Introduction
-Visual Studio 2017 Tools for Azure Functions introduces some exciting changes:
+On May 10th, Microsoft announced the release of the first preview of Visual Studio 2017 Tools for Azure Functions.
+
+This preview introduces some exciting changes over the previous release:
 - Enables creating pre-compiled C# functions that bring better cold start performance than script based functions
 - Uses WebJobs attributes to declare function bindings directly in the C# code rather than the separate function.json file.
 
