@@ -2,13 +2,11 @@
 
 ## Introduction
 On May 10th, Microsoft announced the release of the first preview of Visual Studio 2017 Tools for Azure Functions.
-
 This preview introduces some exciting changes over the previous release:
 - Enables creating pre-compiled C# functions that bring better cold start performance than script based functions
 - Uses WebJobs attributes to declare function bindings directly in the C# code rather than the separate function.json file.
 
-This Visual Studio Solution contains several pre-compiled Azure Functions and uses Azure Table Storage to  Create, Read, Update and Delete orders. The project is created in Visual Studio 2017 version 15.3 Preview. The sample can easy be modified for other type of objects. 
-Azure Table Storage is a NoSQL key-value store for rapid development using massive semi-structured datasets
+This Visual Studio Solution sample contains several pre-compiled Azure Functions that are build with the Visual Studio 2017 Tools for Azure Functions. The project is created in Visual Studio 2017 version 15.3 Preview. The Azure Functions use Azure Table Storage to Create, Read, Update and Delete orders. Azure Table Storage is a NoSQL key-value store for rapid development using massive semi-structured datasets
 
 
 ## Getting Started
